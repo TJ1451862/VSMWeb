@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="VSMWeb1:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/VSMWeb1_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="VSMWeb1/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="VSMWeb1" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
