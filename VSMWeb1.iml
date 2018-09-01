@@ -35,5 +35,8 @@
     <orderEntry type="library" name="fastjson-1.2.2" level="project" />
     <orderEntry type="library" name="fastjson-1.2.2-sources" level="project" />
     <orderEntry type="library" name="hanlp-1.6.6" level="project" />
+    <orderEntry type="library" name="hanlp-1.6.7" level="project" />
+    <orderEntry type="library" name="hanlp-1.6.7 (2)" level="project" />
+    <orderEntry type="library" name="hanlp-1.6.7-sources" level="project" />
   </component>
 </module>
